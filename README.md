@@ -15,7 +15,10 @@ This script visualizes backward atmospheric trajectories from multiple files by 
 
 ## Python scripts
 ### plotfrequency_10282024: 
+This notebook analyzes and visualizes New Particle Formation occurrences from 2018 to 2023 using environmental data. It performs data preprocessing, grouping, and visualization to understand monthly patterns and trends.
 
-### HYSPLIT_COlor_COded_Height_interval_10282024: 
+### NPF_identification_10282024: 
+This notebook is designed to identify the onset time of New Particle Formation events based on Random Forest Classifier.
 
-### HYSPLIT_COlor_COded_Height_interval_10282024: 
+### NPF_driving_factors_10282024: 
+This notebook aims to identify the driving factors behind New Particle Formation events using Random Forest Classifier and feature importance analysis.
